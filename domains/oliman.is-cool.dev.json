@@ -1,0 +1,17 @@
+{
+  "description": "Domain for testing educational purposes",
+
+  "domain": "is-cool.dev",
+  "subdomain": "oliman",
+
+  "owner": {
+    "repo": "https://github.com/soumaqail/joud",
+    "email": "souma.qail@gmail.com"
+  },
+
+  "record": {
+    "NS": ["melissa.ns.cloudflare.com", "trevor.ns.cloudflare.com"]
+  },
+
+  "proxied": false
+}
