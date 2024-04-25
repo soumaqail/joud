@@ -1,0 +1,22 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "oliman",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "hello@oliman.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "oliman.com",
+        "MX": ["mx1.oliman.com", "mx2.oliman.com"],
+        "NS": ["ns1.oliman.com", "ns2.oliman.com"],
+        "TXT": ["oliman_verification=1234567890"]
+    },
+
+    "proxied": false
+}
